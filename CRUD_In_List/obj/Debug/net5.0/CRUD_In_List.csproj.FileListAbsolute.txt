@@ -1,0 +1,16 @@
+E:\my files\CRUD_In_List\bin\Debug\net5.0\CRUD_In_List.exe
+E:\my files\CRUD_In_List\bin\Debug\net5.0\CRUD_In_List.deps.json
+E:\my files\CRUD_In_List\bin\Debug\net5.0\CRUD_In_List.runtimeconfig.json
+E:\my files\CRUD_In_List\bin\Debug\net5.0\CRUD_In_List.runtimeconfig.dev.json
+E:\my files\CRUD_In_List\bin\Debug\net5.0\CRUD_In_List.dll
+E:\my files\CRUD_In_List\bin\Debug\net5.0\ref\CRUD_In_List.dll
+E:\my files\CRUD_In_List\bin\Debug\net5.0\CRUD_In_List.pdb
+E:\my files\CRUD_In_List\obj\Debug\net5.0\CRUD_In_List.csproj.AssemblyReference.cache
+E:\my files\CRUD_In_List\obj\Debug\net5.0\CRUD_In_List.GeneratedMSBuildEditorConfig.editorconfig
+E:\my files\CRUD_In_List\obj\Debug\net5.0\CRUD_In_List.AssemblyInfoInputs.cache
+E:\my files\CRUD_In_List\obj\Debug\net5.0\CRUD_In_List.AssemblyInfo.cs
+E:\my files\CRUD_In_List\obj\Debug\net5.0\CRUD_In_List.csproj.CoreCompileInputs.cache
+E:\my files\CRUD_In_List\obj\Debug\net5.0\CRUD_In_List.dll
+E:\my files\CRUD_In_List\obj\Debug\net5.0\ref\CRUD_In_List.dll
+E:\my files\CRUD_In_List\obj\Debug\net5.0\CRUD_In_List.pdb
+E:\my files\CRUD_In_List\obj\Debug\net5.0\CRUD_In_List.genruntimeconfig.cache
