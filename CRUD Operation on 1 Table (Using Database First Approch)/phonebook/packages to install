@@ -1,0 +1,7 @@
+dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL
+dotnet add package Microsoft.EntityFrameworkCore.design
+dotnet add package Microsoft.EntityFrameworkCore.tools
+dotnet tool update --global dotnet-ef
+dotnet ef dbcontext scaffolding connectionString Microsoft.entityframeworkcore 
+
+dotnet ef dbcontext Scaffold "Host=localhost;Port=5432;User ID=postgres;Password=1234;Database=PhonebookDb;Pooling=true;" Npgsql.EntityFrameworkCore.PostgreSQL -o Models
